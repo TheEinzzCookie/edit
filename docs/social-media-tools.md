@@ -639,7 +639,7 @@
 
 # ► TikTok Tools
 
-* ⭐ **[⁠EinzzTools](https://einzzcookie.org/)** - TikTok User Lookup & Archive / User Monitor / Story & Repost Viewer / User & Video Sharing Link Tracker / Video Info Lookup / Comment Viewer & Exporter / Video Downloader / Banner Collection / Anonymous Sharing / User QR-Code / Link Checker / API & more / [Telegram](https://t.me/eizztools)
+* ⭐ **[⁠EinzzTools](https://einzzcookie.org/)** - TikTok Lookup & Archive / Monitor / Story & Repost Viewer / Link Tracker / Video & Comment Tools / Downloader / QR & API - [Telegram](https://t.me/eizztools)
 * [Urlebird](https://urlebird.com/) - TikTok Frontend / Viewer
 * [SSSTik](https://ssstik.io/), [myfaveTT](https://myfavett.com/), [TokSave](https://toksave.social/) or [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok Downloaders
 * [TikTok Tools](https://omar-thing.site/) - TikTok User Finder / Search / Story Viewer / Downloader / Link Tracker & more / [Telegram](https://t.me/tiktokinfosite)
